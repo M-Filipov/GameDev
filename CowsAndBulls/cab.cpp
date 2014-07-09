@@ -347,7 +347,6 @@ int main( int argc, char* args[] )
 								close();
 								return 0;	
 						}
-						printf("%d\n", select);
 					}
 				}
 				if( select >= 4)
