@@ -2,6 +2,7 @@
 #include <SDL2/SDL_image.h>
 #include <stdio.h>
 #include <string>
+#include <time.h>
 
 const int SCREEN_WIDTH = 800;
 const int SCREEN_HEIGHT = 600;
