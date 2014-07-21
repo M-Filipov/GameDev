@@ -1,5 +1,5 @@
 #include "SoundEffects.h"
-
+#include <stdio.h>
 
 SoundEffects::SoundEffects(void)
 {
